@@ -1,0 +1,2 @@
+ 02-08-2025 14:33:18:708 [pid=8885 tid=8885] NOTICE  cufio-drv:830 running in compatible mode
+ 02-08-2025 14:33:19:415 [pid=8885 tid=8885] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sda2
